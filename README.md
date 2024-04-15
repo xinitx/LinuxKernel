@@ -8,9 +8,9 @@ linux-5.4.34可调试内核源码，基于vscode devcontainer
 
 -.devcontainer
 
-  -linux-5.4.34
+​     -linux-5.4.34
 
-  Dockerfile
+​     Dockerfile
 
   devcontainer.json
 
@@ -41,3 +41,4 @@ sudo parted #进入分区磁盘的命令行，p打印信息，resizepart [id]扩
 sudo resize2fs [磁盘路径名] #刷新
 ```
 
+3.  failed to push some refs to 'github.com:xinitx/LinuxKernel.git'，**解决**：使用lfs![image-20240415222533120](./README/image-20240415222533120.png)
