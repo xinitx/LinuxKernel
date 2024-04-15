@@ -4,15 +4,15 @@ linux-5.4.34可调试内核源码，基于vscode devcontainer
 
 ## 目录结构
 
--.vscode
+| .vscode
 
--.devcontainer
+| .devcontainer
 
-​     -linux-5.4.34
+|  | linux-5.4.34
 
-​     Dockerfile
+|  | Dockerfile
 
-  devcontainer.json
+|  | devcontainer.json
 
 ## 项目依赖
 
