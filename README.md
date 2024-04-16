@@ -20,7 +20,7 @@ docker、vscode和dev container插件
 
 ## 操作过程
 
-1. 等待dev container创建完毕
+1. 将tar.gz解压缩，用dev container打开，等待dev container创建完毕
 
 ![image-20240415192924991](./README/image-20240415192924991.png)
 
